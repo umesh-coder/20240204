@@ -6,7 +6,7 @@
  * @constant addition {function}
  */
 
-const addition = require('./add.js');
+const addition = require('./addition.js');
 
 /**
  * @function multiplication to perform Multiplication of two Arrays
