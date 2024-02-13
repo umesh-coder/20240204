@@ -2,7 +2,7 @@
 
 Date : 04/02/2024
 
-**To learn & Implement Data Structure Example Linked List and its various Operations**
+**To learn & Implement Data Structure & Some Logic Building Problem (Synchronous Programming)**
 
 Problem Statement :
 1. Create and Perform Opearation on Linked List
