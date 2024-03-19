@@ -181,3 +181,5 @@ function testingFunction() {
 }
 
 testingFunction();
+
+module.exports = infiniteArithmetic;
